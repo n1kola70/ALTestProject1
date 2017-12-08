@@ -1,0 +1,23 @@
+{
+  "id": "a0d2f381-de83-45b0-9ab3-faf74f8a4acd",
+  "name": "ALTestProject1",
+  "publisher": "Nikolay Sokolov",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "compatibilityId": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "11.0.0.0",
+  "application": "11.0.0.0",
+  "idRange": {
+    "from": 50100,
+    "to": 50149
+  }
+}
