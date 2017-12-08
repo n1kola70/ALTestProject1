@@ -43,7 +43,7 @@ page 50100 "AIR List"
                 var
                 //ICAOFunctions: Codeunit "Air"
                 begin
-                    Message('TODO');
+                    Message('TODO: new');
                 end;
             }
         }
